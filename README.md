@@ -35,7 +35,6 @@ I enjoy building practical solutions with modern tools and continuously improvin
 
 ### Other Technologies
 - REST APIs
-- gRPC
 - JWT
 - OAuth
 - Swagger
@@ -44,42 +43,6 @@ I enjoy building practical solutions with modern tools and continuously improvin
 - Scrum
 - Agile Development
 - Basic Linux Kernel Handling
-
----
-
-## Featured Projects
-
-### Inventory Management System – EMI Engineering Fair 2025
-Academic full-stack project presented at the USAC Engineering Fair.
-
-- Built with NestJS (backend) and Next.js 15 (frontend)
-- Authentication with JWT and OAuth
-- User, role, and access control management
-- Product and category management
-- Stock alerts and statistics dashboard
-- Integrated TypeORM, Swagger, Tailwind CSS, HeroUI, and Framer Motion
-
-### IXCHEL NET – Digital Verification Platform
-Second Place – ILAN Project USAC 2025
-
-- Developed with Next.js 16, React 19, and TypeScript
-- Integrated with Google Fact Check Tools API
-- Implemented `/api/verify` endpoint for automated fact verification
-- Structured visualization of sources and verdicts
-- Modular UI with Tailwind CSS, Radix UI, and Framer Motion
-- Designed a freemium and institutional business model with a 3-year financial projection
-
----
-
-## Education
-
-**Universidad de San Carlos de Guatemala**  
-B.Sc. in Systems Engineering  
-2023 – Present
-
-**Escuela Marista**  
-Primary, Secondary School, and High School Diploma in Science and Literature  
-Graduated in 2022
 
 ---
 
